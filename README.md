@@ -112,7 +112,12 @@ endmodule
 
 ### TIMING DIGRAMS FOR COUNTER  
 
+#### UP Counter
+
 ![T1](https://user-images.githubusercontent.com/93427011/169742560-7239a387-9f5b-4068-87a1-57760c65ae84.jpeg)
+
+
+#### Down Counter
 
 ![T2](https://user-images.githubusercontent.com/93427011/169742567-caf75d78-ebc9-4d18-995f-8d64b3194606.jpeg)
 
@@ -122,7 +127,11 @@ endmodule
 ### TRUTH TABLE 
 
 
+#### UP Counter
+
 <img width="860" alt="TT1" src="https://user-images.githubusercontent.com/93427011/169742597-a9bac2cb-65f7-452c-b253-651e4184a1c1.png">
+
+#### Down Counter
 
 
 <img width="860" alt="TT2" src="https://user-images.githubusercontent.com/93427011/169742615-86947d04-d1a5-4612-84fc-1aa502f5d2dc.png">
