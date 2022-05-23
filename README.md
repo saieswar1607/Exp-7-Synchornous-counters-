@@ -103,7 +103,13 @@ endmodule
 ```
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+#### UP Counter
+
+
 <img width="1130" alt="1" src="https://user-images.githubusercontent.com/93427011/169742530-572d815d-582f-49eb-9a0e-3fafd037b889.png">
+
+#### Down Counter
+
 
 <img width="990" alt="2" src="https://user-images.githubusercontent.com/93427011/169742545-8cf6aea9-42d7-4ab7-b66d-9cca69d5c359.png">
 
